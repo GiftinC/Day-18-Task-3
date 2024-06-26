@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(172, 194, 223);
+}
+div.row {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+
+.search {
+  text-align: center;
+  justify-content: center;
+}
+.name {
+  padding: 0px 10px;
+}
+p {
+  color: gray;
+  display: inline;
+  font-size: medium;
+}
